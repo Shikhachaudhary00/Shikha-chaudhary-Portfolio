@@ -29,10 +29,10 @@
 }
 
 .righthome img {
-    width: 88%;
+    width: 40%;
     position: relative; /* Changed from absolute */
     top: 0;
-    filter: drop-shadow(2px 2px 9px white);
+    filter: drop-shadow(2px 2px 3px white);
 }
 
 /* Text Details */

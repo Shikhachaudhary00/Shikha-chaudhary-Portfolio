@@ -8,3 +8,8 @@
 body{
 background-color: rgb(17,20,23); 
 }
+
+html, body {
+    overflow-x: hidden;
+    width: 100%;
+}

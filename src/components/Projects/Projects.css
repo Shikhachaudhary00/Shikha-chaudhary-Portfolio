@@ -21,6 +21,11 @@
     scrollbar-width: none;
 
 }
+.slider video {
+    opacity: 1; /* Fully visible */
+    transition: opacity 0.3s ease-in-out;
+}
+
 .slider::-webkit-scrollbar {
     display: none;
 }
