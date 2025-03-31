@@ -51,7 +51,7 @@ function Home() {
                         
 
                     </div>
-                    <a href="https://drive.google.com/file/d/1ZKW3C4LHYAk3bjAESgdi-Wbz9wGIEstk/view?usp=sharing" download="Shikha-Chaudhary-Resume.pdf">
+                    <a href="https://drive.google.com/file/d/1zu8bN24RqiRDBzvC3YtKuWgDqCiqqtNI/view?usp=sharing" download="Shikha-Chaudhary-Resume.pdf">
                         <button>HIRE ME</button>
                     </a>
 
