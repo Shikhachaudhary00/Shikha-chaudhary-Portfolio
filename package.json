@@ -3,13 +3,12 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Shikhachaudhary00.github.io/Shikha-chaudhary-Portfolio",
-
+  "homepage": "https://Shikhachaudhary00.github.io/shikha-chaudhary-portfolio",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "predeploy": "npm run build",
-  "deploy": "gh-pages -d dist",
+    "deploy": "gh-pages -d dist",
     "lint": "eslint .",
     "preview": "vite preview"
   },
